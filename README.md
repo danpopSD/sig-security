@@ -164,6 +164,7 @@ Membership governance can be viewed [here](https://github.com/cncf/sig-security/
 * Ash Narkar ([@ashutosh-narkar](https://github.com/ashutosh-narkar)), OPA
 * Lorenzo Fontana ([@fntlnz](https://github.com/fntlnz)), Sysdig [Falco Maintainer]
 * Leonardo Di Donato ([@leodido](https://github.com/leodido)), Sysdig [Falco Maintainer]
+* Dan "POP" Papandrea ([@danpopsd](https://github.com/danpopsd)), Sysdig [Falco]
 * Daniel Iziourov ([@danmx](https://github.com/danmx)), Adevinta
 * Michael Hausenblas ([@mhausenblas](https://github.com/mhausenblas), AWS
 * Zach Arnold ([@zparnold](https://github.com/zparnold)), Ygrene Energy Fund
